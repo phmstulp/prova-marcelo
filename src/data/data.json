@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nome": "Pedro Henrique",
+    "email": "pedro@gmail.com",
+    "cpf": "05588795879",
+    "telefone": "45999348574"
+  },
+  {
+    "id": "2",
+    "nome": "Matheus",
+    "email": "matheus@gmail.com",
+    "cpf": "05588748596",
+    "telefone": "45999358596"
+  }
+]
